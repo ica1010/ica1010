@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ica1010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ica1010&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=ica1010&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ica1010&limit=5&theme=dark&combine_all_yearly_contributions=true)
